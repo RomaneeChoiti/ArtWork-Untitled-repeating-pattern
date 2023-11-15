@@ -9,7 +9,7 @@ let colorTimer;
 let shapes;
 
 function setup() {
-  createCanvas(1000, 800, WEBGL);
+  createCanvas(1450, 900, WEBGL);
   background(0);
   x = 0;
   y = 0;
